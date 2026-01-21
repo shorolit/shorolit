@@ -1,4 +1,4 @@
-## Hi there 👋
+## Shorol IT - We believe clarity is the new skill 👋
 
 <!--
 **shorolit/shorolit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
